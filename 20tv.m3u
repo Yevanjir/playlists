@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0 tvg-name=Первый канал  tvg-logo="https://assets.limehd.tv/uploads/channel/105/thumb_839f7096207876cec33636d0f9edb62c.png",Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:0 tvg-name=Россия 1  tvg-logo="https://assets.limehd.tv/uploads/channel/115/thumb_e29a31a7db59815180216fd4d9f499f5.png",Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:0 tvg-name=Матч! tvg-logo="https://assets.limehd.tv/uploads/channel/157/thumb_1c5616d24325a582bee7d402ee952974.png",Матч!
+http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:0 tvg-name=НТВ  tvg-logo="https://assets.limehd.tv/uploads/channel/10100/thumb_0ef56b36588b5cf58648bf3bdc641882.png",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:0 tvg-name=Пятый канал  tvg-logo="https://assets.limehd.tv/uploads/channel/3/thumb_6b50fcda5f05e5c908ebed3c5c1ab69a.png",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:0 tvg-name=Россия К  tvg-logo="https://assets.limehd.tv/uploads/channel/83/thumb_2a13929e8a131bf052e5800af178f2bf.png",Россия К
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:0 tvg-name=Россия 24  tvg-logo="https://assets.limehd.tv/uploads/channel/148/thumb_bcf59fbda0196385eb5975e48d1930ba.png",Россия 24
+http://iptv.ktkru.ru:8007/index.m3u8
+#EXTINF:0 tvg-name=Карусель  tvg-logo="https://assets.limehd.tv/uploads/channel/78/thumb_ca5fad4c66b8a1cd6661865059aeb162.png",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:0 tvg-name=ОТР  tvg-logo="https://assets.limehd.tv/uploads/channel/101/thumb_fd35a59b9ff362c634cb5fd003dc9405.png",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:0 tvg-name=ТВ Центр  tvg-logo="https://assets.limehd.tv/uploads/channel/129/thumb_643d5286f1805c3d9bac854cd7020d26.png",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:0 tvg-name=РЕН ТВ tvg-logo="https://assets.limehd.tv/uploads/channel/113/thumb_d1f2aeae7c9afa7cb72fb20995c12562.png",РЕН ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:0 tvg-name=Спас tvg-logo="https://assets.limehd.tv/uploads/channel/124/thumb_aeff71fc115400a7fbc42d14d3635e82.png",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
+#EXTINF:0 tvg-name=СТС  tvg-logo="https://assets.limehd.tv/uploads/channel/126/thumb_d733a54d361339cf5afd2856ffd08038.png",СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:0 tvg-name=Домашний  tvg-logo="https://assets.limehd.tv/uploads/channel/67/thumb_544f0d7b00d730b1f63bd38c7139cc9d.png",Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:0 tvg-name=ТВ-3  tvg-logo="https://assets.limehd.tv/uploads/channel/130/thumb_c8f8053b6dd8481bc0457d2c0150d095.png",ТВ 3
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:0 tvg-name=Пятница!  tvg-logo="https://assets.limehd.tv/uploads/channel/109/thumb_bfb41272ed60b55ca7f04a7810a8a2e3.png",Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:0 tvg-name=Звезда  tvg-logo="https://assets.limehd.tv/uploads/channel/72/thumb_70a9031c61c560b576310660e623d009.png",Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:0 tvg-name=МИР  tvg-logo="https://assets.limehd.tv/uploads/channel/88/thumb_24f75cbed5f42500594f61f0949ca755.png",Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:0 tvg-name=ТНТ  tvg-logo="https://assets.limehd.tv/uploads/channel/136/thumb_e279eda629344b765e66dea01747b41b.png",ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:0 tvg-name=МУЗ-ТВ  tvg-logo="https://assets.iptv2022.com/uploads/channel/93/thumb_%D0%9C%D1%83%D0%B7%D0%A2%D0%92__2_.png",Муз ТВ
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:0 tvg-name=Крым 24  tvg-logo="https://assets.limehd.tv/uploads/channel/10131/thumb_607a1530c80dfcd0499b716ce9d96133.png",Крым 24
+http://iptv.ktkru.ru:8025/index.m3u8

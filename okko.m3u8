@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:64 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/be/TV1000_%282021%29.svg/revision/latest/scale-to-width-down/500?cb=20211205152540&path-prefix=ru",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:64 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cb/TV1000_Action_%282021%29.svg/revision/latest/scale-to-width-down/500?cb=20211205152441&path-prefix=ru",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:64 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5f/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_%282021%29.svg/revision/latest/scale-to-width-down/500?cb=20211205152326&path-prefix=ru",TV1000 Ru Kino HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:64 tvg-logo="http://widget.ottplayer.tv/pictures/336.png",TV1000 Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:64 tvg-logo="http://widget.ottplayer.tv/pictures/326.png",TV1000 Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:64 tvg-logo="http://widget.ottplayer.tv/pictures/41.png",TV1000 Premium HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:64 tvg-logo="http://widget.ottplayer.tv/pictures/926.png",ViP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:64 tvg-logo="http://widget.ottplayer.tv/pictures/998.png",A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:64 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/37/A1_%282016-%D0%BD.%D0%B2.%29.png/revision/latest/scale-to-width-down/198?cb=20161106072319&path-prefix=ru",A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/15537.png",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a4/.black_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210625203216&path-prefix=ru",BLACK Arthouse
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/189.png",SCI-FI
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/311.png",Fox HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/.red_%282021%29.svg/revision/latest/scale-to-width-down/512?cb=20210625203153&path-prefix=ru",.red Russia
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/321.png",FOX Life hd
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/af/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B9%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BF_%D0%A2%D0%92.png/revision/latest/scale-to-width-down/495?cb=20160104202203&path-prefix=ru",Калейдскоп ТВ
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/993.png",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/29.png",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/604.png",СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/676.png",ЧЕ
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/30/%D0%AE_4.png/revision/latest/scale-to-width-down/1000?cb=20210511172508&path-prefix=ru",Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f1/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_7.svg/revision/latest/scale-to-width-down/1000?cb=20210907221817&path-prefix=ru",5 КАНАЛ
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/541.png",НИКА ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/15.png",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/533.png",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/137.png",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/1120.png",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/186.png",Феникс + Кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5e/NatGeo_%282016%29.png/revision/latest/scale-to-width-down/1000?cb=20210521134935&path-prefix=ru",National Geographic HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/Nat_Geo_Wild_2.png/revision/latest/scale-to-width-down/1000?cb=20190324130921&path-prefix=ru",NG Wild Russia HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/56/Viasat_Explore_3.png/revision/latest/scale-to-width-down/1000?cb=20211220182147&path-prefix=ru",Explore_HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/338.png",History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7e/Viasat_Nature_3.png/revision/latest/scale-to-width-down/1000?cb=20211221110451&path-prefix=ru",Nature_HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/15427.png",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:0 tvg-logo="http://widget.ottplayer.tv/pictures/982.png",CTC Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/365?cb=20150502040753&path-prefix=ru",Baby TV
+https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/Disney_Channel_Russia_logo_%282018%29.png/revision/latest/scale-to-width-down/1000?cb=20211201110928&path-prefix=ru",Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
