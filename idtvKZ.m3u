@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/ru/AmediaHit.ru.png" group-title="Russia",Amedia Hit (1080p)
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/ru/AmediaHit.ru.png" ,Amedia Hit (1080p)
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/russia/logo/a1.png" ,A1
 https://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/russia/logo/a2.png" ,A2
 https://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/ru/Bollywood.ru.png" group-title="Russia",Bollywood HD
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/ru/Bollywood.ru.png" ,Bollywood HD
 https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/russia/logo/dorama.png" ,Дорама HD
 https://sc.id-tv.kz/dorama_hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/FOX.ru.png" ,FOX_HD
 https://sc.id-tv.kz/FOX_HD.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvepg.eu/img/russia/logo/cinema.png" group-title="Russia",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvepg.eu/img/russia/logo/cinema.png" ,Cinema
 https://sc.id-tv.kz/Cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Da Vinci
 https://sc.id-tv.kz/DaVinci.m3u8
