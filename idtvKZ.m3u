@@ -1,66 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Amedia Hit (1080p)
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/ru/AmediaHit.ru.png" group-title="Russia",Amedia Hit (1080p)
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
-#EXTINF:-1 ,A1
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/russia/logo/a1.png" ,A1
 https://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 ,A2
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/russia/logo/a2.png" ,A2
 https://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Bollywood HD
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/ru/Bollywood.ru.png" group-title="Russia",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd.m3u8
-#EXTINF:-1 ,Дорама HD
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/russia/logo/dorama.png" ,Дорама HD
 https://sc.id-tv.kz/dorama_hd.m3u8
-#EXTINF:-1 ,FOX_HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/FOX.ru.png" ,FOX_HD
 https://sc.id-tv.kz/FOX_HD.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvepg.eu/img/russia/logo/cinema.png" group-title="Russia",Cinema
 https://sc.id-tv.kz/Cinema.m3u8
-#EXTINF:-1 ,Da Vinci
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Da Vinci
 https://sc.id-tv.kz/DaVinci.m3u8
-#EXTINF:-1 tvg-id="HDL.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",HDL
+#EXTINF:-1 tvg-id="HDL.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvepg.eu/img/russia/logo/hdl.png" ,HDL
 https://sc.id-tv.kz/hdl.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Russia",National Geographic Wild Russia (1080p)
+#EXTINF:-1 tvg-id="NationalGeographicWildRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" ,National Geographic Wild Russia (1080p)
 https://sc.id-tv.kz/NatGeoWildHD.m3u8
-
-#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.domkino-premium.tv/im/logo3d.png" group-title="Russia",Дом Кино Премиум
+#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.domkino-premium.tv/im/logo3d.png" ,Дом Кино Премиум
 https://sc.id-tv.kz/domkino_hd.m3u8
-#EXTINF:-1 tvg-id="Indiyskoekino.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Индийское кино
+#EXTINF:-1 tvg-id="Indiyskoekino.ru" tvg-country="RU" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/indijskoe-kino.png" ,Индийское кино
 https://sc.id-tv.kz/Indiiskoe_kino.m3u8
-#EXTINF:-1 tvg-id="Kinokomediya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Кинокомедия
+#EXTINF:-1 tvg-id="Kinokomediya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinokomedija.png" ,Кинокомедия
 https://sc.id-tv.kz/Kinokomediya_hd.m3u8
-#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Киномикс
+#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinomiks(1).png" ,Киномикс
 https://sc.id-tv.kz/Kinomix_hd.m3u8
-#EXTINF:-1 tvg-id="Kinopremera.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Кинопремьера
+#EXTINF:-1 tvg-id="Kinopremera.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinopremyera(1).png" ,Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd.m3u8
-#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Киносвидание
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinosvidanie(1).png" ,Киносвидание
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
-#EXTINF:-1 tvg-id="Kinosemya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Киносемья
+#EXTINF:-1 tvg-id="Kinosemya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinosemja(1).png" ,Киносемья
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 tvg-id="Kinohit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Кинохит
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/kinohit(1).png" ,Кинохит
 https://sc.id-tv.kz/Kinohit_hd.m3u8
-#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Мужское кино
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/mkinotv(1).png" ,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
-#EXTINF:-1 tvg-id="O.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",О! (576p)
+#EXTINF:-1 tvg-id="O.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" ,О! (576p)
 https://sc.id-tv.kz/o.m3u8
-#EXTINF:-1 tvg-id="Poehali.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Поехали! (576p)
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/30HzeQe.png" ,Поехали! (576p)
 https://sc.id-tv.kz/poehali.m3u8
-#EXTINF:-1 tvg-id="Bober.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Бобер
+#EXTINF:-1 tvg-id="Bober.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" ,Бобер
 https://sc.id-tv.kz/bober.m3u8
-#EXTINF:-1 ,Хабар
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Хабар
 https://sc.id-tv.kz/Khabar.m3u8
-#EXTINF:-1 ,31 канал
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,31 канал
 https://sc.id-tv.kz/31Kanal.m3u8
-#EXTINF:-1 tvg-id="MirPlus3.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Мir +3 (576p)
+#EXTINF:-1 tvg-id="MirPlus3.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" ,Мir +3 (576p)
 https://sc.id-tv.kz/Mir.m3u8
-#EXTINF:-1 ,СТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,СТВ
 https://sc.id-tv.kz/STV.m3u8
-#EXTINF:-1 ,Первый канал Евразия
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Первый канал Евразия
 https://sc.id-tv.kz/1KanalEvraziya.m3u8
-#EXTINF:-1 ,Пятница! Int.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Пятница! Int.
 https://sc.id-tv.kz/friday.m3u8
-#EXTINF:-1 ,Рен ТВ Int.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Рен ТВ Int.
 https://sc.id-tv.kz/RenTV.m3u8
-#EXTINF:-1 ,СТС International
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,СТС International
 https://sc.id-tv.kz/STS.m3u8
-#EXTINF:-1 ,ТНТ4 Int.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,ТНТ4 Int.
 https://sc.id-tv.kz/tnt4.m3u8
-#EXTINF:-1 ,Победа
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" ,Победа
 https://sc.id-tv.kz/Pobeda.m3u8
