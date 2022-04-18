@@ -44,13 +44,13 @@ https://sc.id-tv.kz/o.m3u8
 https://sc.id-tv.kz/poehali.m3u8
 #EXTINF:-1 tvg-id="Bober.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Бобер
 https://sc.id-tv.kz/bober.m3u8
-
+#EXTINF:-1 ,Хабар
 https://sc.id-tv.kz/Khabar.m3u8
-
+#EXTINF:-1 ,31 канал
 https://sc.id-tv.kz/31Kanal.m3u8
 #EXTINF:-1 tvg-id="MirPlus3.ru" tvg-country="RU" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Russia",Мir +3 (576p)
 https://sc.id-tv.kz/Mir.m3u8
-
+#EXTINF:-1 ,СТВ
 https://sc.id-tv.kz/STV.m3u8
 #EXTINF:-1 ,Первый канал Евразия
 https://sc.id-tv.kz/1KanalEvraziya.m3u8
